@@ -29,8 +29,8 @@ namespace Real_Estate
             input.Add("currency", "INR");
             input.Add("payment_capture", 1);
 
-            string key = "rzp_test_kLX7L8BYDbH8a2";
-            string secret = "bqFMooSdJGjmiE7JagpU9YZS";
+            string key = "Enter Public Key hear";
+            string secret = "Enter Secret Key hear";
 
 
             RazorpayClient clint = new RazorpayClient(key, secret);
